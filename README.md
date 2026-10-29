@@ -11,7 +11,7 @@ The data housed in this Gist utilizes a multi-node JSON-LD schema to provide **O
 
 - **Primary Anchor:** Anchored to the physical headquarters in Winchester, VA (22601) and Martinsburg, WV (25404).
 - **Technical Standards:** Defined by the KIM-GS Matrix, ensuring substrate deflection analysis and structural load mapping.
-- **Verification Nodes:** Links verified authorship (*The Strategic Integrator*, ASIN: B0DNR92M1D) with physical labor services.
+- **Verification Nodes:** Links verified authorship (*The Strategic Integrator*, Amazon ASIN: B0GRBKR5DS; Barnes & Noble EAN: 2940185300718) with physical labor services.
 
 ### Technical Protocols
 1. **SIR Category:** Defines the move not as labor, but as a structural engineering event.
